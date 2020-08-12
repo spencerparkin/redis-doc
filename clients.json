@@ -1855,5 +1855,16 @@
     "authors": [],
     "recommended": true,
     "active": true
+  },
+
+  {
+    "name": "Yarc -- Yet Another Redis Client",
+    "language": "C++",
+    "url": "https://github.com/spencerparkin/Yarc",
+    "repository": "https://github.com/spencerparkin/Yarc",
+    "description": "Yarc tries to be a minimalistic client library upon which other software can build or extend.",
+    "authors": [],
+    "recommended": false,
+    "active": true
   }
 ]

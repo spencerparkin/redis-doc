@@ -338,5 +338,14 @@
       "zhao-lang"
     ],
     "stars":0
-  }	
+  },
+
+  {
+    "name": "ParkinDSF",
+    "license": "MIT",
+    "repository": "https://github.com/spencerparkin/ParkinDSF",
+    "description": "This is a Redis module adding support for DSF (disjoint set forest) data-structures.",
+    "authors": ["spencerparkin"],
+    "starts": 0
+  }
 ]
